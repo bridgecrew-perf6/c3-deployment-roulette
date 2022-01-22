@@ -1,0 +1,19 @@
+lekhraj.singh@ITIN000472-MAC bloatware % kubectl get pods
+NAME                                  READY   STATUS    RESTARTS   AGE
+bloaty-mcbloatface-58c98b98d8-2rpk4   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-44vkp   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-4wqzg   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-4xsjb   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-6cbc7   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-86lwp   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-f5l7v   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-fmtpf   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-fncfw   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-hq5tg   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-kf4bp   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-kpsxh   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-mpmzk   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-pm7kg   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-pnbz6   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-qnm2w   1/1     Running   0          5m35s
+bloaty-mcbloatface-58c98b98d8-vj2t6   1/1     Running   0          5m35s
