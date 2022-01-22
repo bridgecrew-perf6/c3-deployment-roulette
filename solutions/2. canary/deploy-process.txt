@@ -1,0 +1,19 @@
+lekhraj.singh@ITIN000472-MAC canary % ./canary.sh 
+deployment.apps/canary-v2 created
+V1 PODS: 3
+V2 PODS: 0
+deployment.apps/canary-v2 scaled
+deployment.apps/canary-v1 scaled
+Waiting for deployment "canary-v2" rollout to finish: 0 of 1 updated replicas are available...
+deployment "canary-v2" successfully rolled out
+Canary deployment of 1 replicas successful!
+Continue deployment? (y/n) y
+continuing deployment
+V1 PODS: 2
+V2 PODS: 1
+deployment.apps/canary-v2 scaled
+deployment.apps/canary-v1 scaled
+Waiting for deployment "canary-v2" rollout to finish: 1 of 2 updated replicas are available...
+deployment "canary-v2" successfully rolled out
+Canary deployment of 1 replicas successful!
+Continue deployment? (y/n) 

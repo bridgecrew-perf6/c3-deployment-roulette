@@ -1,0 +1,16 @@
+lekhraj.singh@ITIN000472-MAC canary % kubectl get pods --all-namespaces 
+NAMESPACE     NAME                           READY   STATUS    RESTARTS   AGE
+kube-system   aws-node-6bg5w                 1/1     Running   0          76m
+kube-system   aws-node-p4sjv                 1/1     Running   0          76m
+kube-system   coredns-f47955f89-d8zns        1/1     Running   0          80m
+kube-system   coredns-f47955f89-vl574        1/1     Running   0          80m
+kube-system   kube-proxy-7ktgj               1/1     Running   0          76m
+kube-system   kube-proxy-xhq8s               1/1     Running   0          76m
+udacity       blue-8475cbdf46-57nkg          1/1     Running   0          68m
+udacity       blue-8475cbdf46-qzn6z          1/1     Running   0          68m
+udacity       blue-8475cbdf46-wjbnm          1/1     Running   0          68m
+udacity       canary-v2-5dc9c56687-9lzd6     1/1     Running   0          2m33s
+udacity       canary-v2-5dc9c56687-jzfjf     1/1     Running   0          23s
+udacity       canary-v2-5dc9c56687-rgwqj     1/1     Running   0          68s
+udacity       debug                          1/1     Running   0          9m7s
+udacity       hello-world-794458d64d-m6gfr   1/1     Running   0          54m

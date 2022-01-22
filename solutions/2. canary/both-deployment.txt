@@ -1,0 +1,10 @@
+lekhraj.singh@ITIN000472-MAC canary % kubectl get pods
+NAME                           READY   STATUS    RESTARTS   AGE
+blue-8475cbdf46-57nkg          1/1     Running   0          73m
+blue-8475cbdf46-qzn6z          1/1     Running   0          73m
+blue-8475cbdf46-wjbnm          1/1     Running   0          73m
+canary-v1-64598c676f-6lc96     1/1     Running   0          87s
+canary-v1-64598c676f-97t8q     1/1     Running   0          87s
+canary-v2-5dc9c56687-685nz     1/1     Running   0          20s
+debug                          1/1     Running   0          14m
+hello-world-794458d64d-m6gfr   1/1     Running   0          59m
